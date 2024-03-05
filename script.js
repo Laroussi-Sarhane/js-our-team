@@ -47,5 +47,5 @@
       ruolo: 'Graphic Designer',
       foto: 'barbara-ramos-graphic-designer.jpg'
     }
-    
   ]
+  console.log(team);
