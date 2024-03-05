@@ -49,3 +49,12 @@
     }
   ]
   console.log(team);
+
+  for(let teamMember of team){
+    console.log(teamMember.nome);
+    console.log(teamMember.ruolo);
+    console.log(teamMember.foto);
+
+  }
+
+ 
